@@ -5,6 +5,7 @@ templateClass: tmpl-post
 eleventyNavigation:
   key: About Me
   order: 3
+date: 2022-03-25
 ---
 
 I am a person that writes stuff.
