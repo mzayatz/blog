@@ -10,7 +10,7 @@ eleventyNavigation:
   develop my writing skills and to share some of what I've learned during my
   life.
   </p>
-<h2>Latest {% if maxPosts == 1 %}Post{% else %}{{ maxPosts }} Posts{% endif %}</h2>
+<h2>My last {% if maxPosts == 1 %}Post{% else %}{{ maxPosts }} Posts{% endif %}</h2>
 
 {% set postslist = collections.posts | head(-3) %}
 {% set postslistCounter = collections.posts | length %}

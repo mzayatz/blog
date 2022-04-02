@@ -2,6 +2,7 @@
 author: Me
 title: Nav Display Descent Planning
 date: 2022-03-27
+updated: 2022-04-02
 description: 
 layout: layouts/post.njk
 tags:
@@ -45,8 +46,8 @@ We can use the range rings on modern navigation displays to make this math a lit
 3. Add Step 1 + Step 2 - this is your **ideal altitude**
 4. Drop 3 zeros from current altitude.
 5. Compare step 3 (ideal altitude) and step 4 (current altitude).
-    - Ideal altitude < current altitude = above path. Start down.
-    - Ideal altitude > current altitude = below path. Descent can wait.
+    - Ideal < current = above path. Start down.
+    - Ideal > current = below path. Descent can wait.
 
 Sounds way more complicated. However, it's a visual process with simple math. It becomes second nature with practice. Here are some examples.
 
