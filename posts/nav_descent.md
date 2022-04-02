@@ -5,8 +5,8 @@ date: 2022-03-27
 description: 
 layout: layouts/post.njk
 tags:
- - Flying
- - Tricks
+ - flying
+ - tricks
 ---
 
 Descent planning made easier with the navigation display. <!--more--> 

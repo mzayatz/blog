@@ -12,10 +12,10 @@ tags:
 
 Sydney Harbour. 
 
-**Hotel** - [Sydney Harbour Marriott](TODO).
+**Hotel** - [Sydney Harbour Marriott](https://www.marriott.com/en-us/hotels/sydmc-sydney-harbour-marriott-hotel-at-circular-quay/overview/).
 
-**Coffee** - [Skittle Lane](TODO). 
+**Coffee** - [Skittle Lane](https://skittlelane.com/). 
 
-**Food** - [The Rocks - Lots of Restaurants](TODO).
+**Food** - [The Rocks - Lots of Restaurants](https://www.therocks.com/).
 
-**Running** - [Circular Quay toward Opera House](TODO). 
+**Running** - Circular Quay. See the Sydney Opera House, Royal Botanic Gardens, and more.
