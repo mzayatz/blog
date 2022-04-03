@@ -54,7 +54,7 @@ Sounds way more complicated. However, it's a visual process with simple math. It
 **Note**: The examples below use crossing restrictions. This technique also works to determine an ideal descent to a runway. To do so, replace the crossing restriction with airfield elevation rounded to the nearest thousand.
 
 #### Descent to Restriction Example:
-![Nav Display Example 1](/img/nav_descent_1.webp)
+![Nav Display Example 1](/img/posts/nav_descent_1.webp)
 Referencing the nav display above, note that **CUBES** is sitting on the **40 NM** range ring. You're at **35,000** feet.
 1. Drop 3 zeros from restriction altitude (20,000). **20**
 2. Drop 1 zero from range (40). Multiply by 3. **12**
@@ -65,7 +65,7 @@ Referencing the nav display above, note that **CUBES** is sitting on the **40 NM
     - The difference is 3,000', so we probably don't need drag.
 
 #### Descent to Restriction Example 2:
-![Nav Display Example 2](/img/nav_descent_2.webp)
+![Nav Display Example 2](/img/posts/nav_descent_2.webp)
 Referencing the nav display above, note that **MANTA** is sitting on the **20 NM** range ring. You're at **15,000** feet.
 1. Drop 3 zeros from restriction altitude. **10**
 2. Drop 1 zero from range. Multiply by 3. **6**
@@ -76,4 +76,4 @@ Referencing the nav display above, note that **MANTA** is sitting on the **20 NM
     - The difference is 1,000', we should start down now.
 
 ### Conclusion
-Like any technique, you need to practice it often to learn it. Also like any technique, if you don't like it, then don't force it--there are others out there. That said, I think this is a novel way to use your aircraft's navigation display to quickly determine if you're currently above or below the ideal 3&deg; for a restriction or the airfield. 
+Like any technique, you need to practice it often to learn it. Also like any technique, if you don't like it, then don't force it--there are others out there. Thanks for reading, fly safe.
