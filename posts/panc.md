@@ -11,7 +11,7 @@ tags:
  - travel
 ---
 
-My inaugural post. It's apt that it's on Anchorage--one of my favorite cities to spend the night. <!--more--> The flavor of the air in Anchorage reminds me of Reykjavik or Tallinn. The brisk wind feels clean and mountains seem to find their way into every photo.
+My inaugural post. It's apt that it's on Anchorage&mdash;one of my favorite cities to spend the night. The flavor of the air in Anchorage reminds me of Reykjavik or Tallinn. The brisk wind feels clean and mountains seem to find their way into every photo.
 
 **Hotel** - [The Hotel Captain Cook](https://captaincook.com).  Wood, wood everywhere. The hotel exudes peak 1970s glamour and luxury.
 
