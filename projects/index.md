@@ -13,12 +13,12 @@ Aviation is like software development&mdash;it can be overwhelmingly complicated
 
 Note: [Sketch](https://www.sketch.com) is used to open .sketch files.
 
-### MD-11
-- MD-11 Navigation Display [(.sketch)](/aids/md11_nav_display.sketch)
+### McDonnell Douglas MD-11
+- MD-11 Navigation Display [(.sketch)](/resources/projects/aviation/md11_nav_display.sketch) [(.webp)](/resources/projects/aviation/md11_nav_display.webp) [(.png)](/resources/projects/aviation/md11_nav_display.webp)
 I created this to support [my post](/posts/nav_descent/) describing how to compute an idle path descent using an aircraft's navigation display.
 ![MD11 Nav Display Example](/img/projects/md11_nav_display_example.webp)
 
-### 737
-- 737 FMC [(.sketch)](/aids/737_fmc.sketch)
-A mockup of the 737 FMC.
+### Boeing 737 NG
+- 737 MCDU Screen [(.sketch)](/resources/projects/aviation/737_fmc.sketch) [(.webp)](/resources/projects/aviation/737_fmc.webp) [(.png)](/resources/projects/aviation/737_fmc.png)
+A mockup of the 737 MCDU screen.
 ![737 FMC Example](/img/projects/737_fmc.webp)
