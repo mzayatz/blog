@@ -6,6 +6,7 @@
   --visited-link: #082840;
   --unvisited-link: #082840;
   --page-background: #fff;
+  --highlight: #ffc802;
 }
 
 @media (prefers-color-scheme: dark) {
@@ -21,7 +22,13 @@
     --gray3: #0D0D0B; 
     --gray4: #595958; 
     --gray5: #F2F2F2; 
+    --highlight: #044d81;
   }
+}
+
+mark {
+  color: var(--body-text);
+  background: linear-gradient(180deg, rgba(255,255,255,0) 45%, var(--highlight) 65%);  
 }
 
 /* Global stylesheet */
