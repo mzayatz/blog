@@ -8,7 +8,6 @@ layout: layouts/post.njk
 tags:
  - aviation
  - techniques
- - tips
 ---
 
 Descent planning made easier with the navigation display.
