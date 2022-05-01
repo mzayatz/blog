@@ -10,10 +10,11 @@ eleventyNavigation:
   develop my writing skills and to share some of what I've learned during my
   life.
   </p>
-<h2>My last {% if maxPosts == 1 %}Post{% else %}{{ maxPosts }} Posts{% endif %}</h2>
+<!--My last {% if maxPosts == 1 %}Post{% else %}{{ maxPosts }} Posts{% endif %}</h2>-->
+<h2>Recent posts</h2>
 
-{% set postslist = collections.posts | head(-3) %}
+{% set postslist = collections.posts | head(-5) %}
 {% set postslistCounter = collections.posts | length %}
 {% include "postslist.njk" %}
 
-<p>More posts can be found in <a href="{{ '/posts/' | url }}">the archive</a>.</p>
+<p>More can be found in <a href="{{ '/posts/' | url }}">the archive</a>.</p>
