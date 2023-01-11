@@ -21,6 +21,6 @@ This is the first post in a series of planned posts describing lesser-known feat
 ## Searching Pubs
 Most pilots use the search box on the map page to search for airports, waypoints, etc. However, it can also search through the Jeppesen route manuals. Instead of typing in a waypoint, type in any word. For example, if you type "expanded," the app will return information regarding expanded circling airspace. 
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jKRqqwVDDJA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qa2sXUv9USk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 *Copyright &copy; 2022 Jeppesen
