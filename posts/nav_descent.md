@@ -1,7 +1,7 @@
 ---
 author: Me
 title: Nav Display Descent Planning
-date: 2022-04-04
+date: 2023-01-11
 # updated: 2022-04-02
 description: 
 layout: layouts/post.njk
