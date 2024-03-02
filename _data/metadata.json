@@ -1,21 +1,21 @@
 {
   "title": "The Gouge",
-  "url": "https://matt.zayatz.org/",
+  "url": "https://zayatz.org/",
   "language": "en",
   "description": "Documenting experiments in writing, tech, aviation, and life",
   "feed": {
     "subtitle": "Documenting experiments in writing, tech, aviation, and life",
     "filename": "feed.xml",
     "path": "/feed/feed.xml",
-    "id": "https://matt.zayatz.org/"
+    "id": "https://zayatz.org/"
   },
   "jsonfeed": {
     "path": "/feed/feed.json",
-    "url": "https://matt.zayatz.org/feed/feed.json"
+    "url": "https://zayatz.org/feed/feed.json"
   },
   "author": {
     "name": "Matt Zayatz",
-    "email": "no-email@no-email.com",
-    "url": "https://matt.zayatz.org/about-me/"
+    "email": "matt.zayatz@gmail.com",
+    "url": "https://zayatz.org/"
   }
 }
