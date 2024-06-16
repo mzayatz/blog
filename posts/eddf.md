@@ -16,6 +16,6 @@ Mainz.
 
 **Food** - I ate a Döner. It's Germany... they're easy to find.
 
-**Food/Drinks** - [The Glenmore](https://theglenmore.com.au). Located at The Rocks, this iconic bar has "harbour views & great food." It won't disappoint.
+**Unverified Food** - I heard the food and drinks are good at "[Ice House](https://www.eisgrub.de)" and "[Rosis](https://www.yelp.com/biz/rosis-restaurant-schinderhannes-mainz)."
 
 **Running** - Run along the Rhine. Leaving the Hilton from its main entrance, make the first right and you'll run into a road that parallels the Rhine. It seems that you can follow the river longer if you run South as opposed to North.
