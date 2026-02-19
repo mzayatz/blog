@@ -1,6 +1,6 @@
 ---
 layout: layouts/page.njk
-title: Projects1
+title: Projects
 templateClass: tmpl-post
 eleventyNavigation:
   key: Projects
